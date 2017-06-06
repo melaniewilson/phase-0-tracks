@@ -1,0 +1,17 @@
+.table_header th {
+	text-align: center;
+}
+
+.kitten_pics td img {
+	margin-right: 10px;
+}
+
+.facts {
+	margin-top: 10px;
+	float: left;
+}
+
+.likes {
+	margin-top: 10px;
+	float: right;
+}
