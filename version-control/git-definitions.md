@@ -17,3 +17,4 @@ A commit is commiting your code after it has been staged. It is essential to wri
 * What is a merge conflict?
 
 Git is telling you there is a conflict with the merge. You will need to address what had happened. 
+
