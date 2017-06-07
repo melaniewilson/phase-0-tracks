@@ -2,7 +2,6 @@
 
 **Instructions: ** Define each of the following Git concepts.
 
-
 * What is version control?  Why is it useful?
 
 Version control software allows other team members to work on a project without overwriting or losing a timeline of changes. This is extremely useful to when building a project with several people due to the version control. Over the course of building a project, bugs may appear or added features will be implemented. It is quite useful to review past changes in order to solve future problems should they arise. 
