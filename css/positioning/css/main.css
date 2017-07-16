@@ -1,0 +1,18 @@
+body {
+	margin-left: 150px;
+	margin-top: 50px;
+}
+
+.hat {
+	position: relative;
+	top: 70px;
+}
+.octo {
+	position: absolute;
+}
+
+.glasses {
+	position: relative;
+	top: 100px;
+	left: 40px;
+}
